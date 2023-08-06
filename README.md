@@ -22,16 +22,8 @@ This code is a Python script that performs an ARP spoofing attack. ARP spoofing 
 *E.g.* `python arp_spoof.py -t 192.168.1.100 -g 192.168.1.1
 `
 - **REMINDER:** Use with root/administrative privileges.
-#
-To move forward, you need to have argparse, ipaddress, and scapy installed.
 
-You can install the necessary libraries using the following commands in the terminal:
 
-* pip install argparse
- 
-* pip install scapy
-  
-* pip install getmac
 
 
  ##  Legal Disclaimer:
